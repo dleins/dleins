@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dleins
-- 👀 I’m interested in fullstack programming, Go, C++, Python
-- 🌱 I’m currently learning Svelte
+- 👀 I’m interested in fullstack programming, 
+- 🌱 I primarily write applications for not-for-profits in PHP
 - 💞️ I’m looking to collaborate on nothing at the moment.
 - 📫 How to reach me dleins@gmail.com
 
